@@ -1,7 +1,7 @@
 
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Download, FileText } from "lucide-react"
+import { Download, FileText, Pill } from "lucide-react"
 import jsPDF from "jspdf"
 
 interface PDFExportProps {
